@@ -7,10 +7,15 @@
 ## 프로젝트 개요
 
 - **프로젝트 기간:** 2023.05 ~ 2023.05 (2주)
-- **참여 인원:** 2명
 - **프로젝트 설명:**
   - 여행 계획을 세우고 서로의 여행경로를 공유하는 웹 사이트로, 사용자들이 여행 일정을 작성하고 공유할 수 있습니다.
   - 사이트는 REST API를 이용해 프론트엔드는 Vue.js, 백엔드는 Spring Boot 기반으로 개발되었습니다.
+ 
+## 팀원
+
+- 최재용: (https://github.com/wodyddldl333)
+- 김하휼: (https://github.com/busangangster)
+
 
 ## 기술 스택 및 개발 환경
 
@@ -18,14 +23,19 @@
 - **백엔드:** Spring Boot
 - **데이터베이스:** MySQL
 - **ORM:** Mybatis
-- **AI API:** ChatGPT API
+- **AI API:** OpenAI API
 - **기타:** Java
 
 ## 담당 역할
 
-- **백엔드 개발 및 API 설계:** Spring Boot 이용
-- **데이터베이스 스키마 설계 및 데이터 매핑:** Mybatis 사용
-- **AI 여행경로 추천:** ChatGPT 프롬프트 엔지니어링
+- **전체적인 UI/UX 디자인 및 프론트엔드 구현:**
+  - Vue.js, TailWind, BootStrap, figma
+- **Chatbot 서비스 구현:**
+  - Chatgpt Api를 활용한 챗봇 기능 
+- **서버와의 통신을 위한 비동기 작업 처리:**
+  - axios
+- **사용자 경험 개선 및 성능 최적화:**
+  - lazy 기법으로 처리 
 
 ## 주요 구현 사항
 
