@@ -1,4 +1,4 @@
-# JH Trip (Trip 웹 서비스)
+# JH Trip
 
 <div align="center">
   <img src="img/logo.png" alt="logo" width="200">
@@ -8,13 +8,14 @@
 
 - **프로젝트 기간:** 2023.05 ~ 2023.05 (2주)
 - **프로젝트 설명:**
-  - 여행 계획을 세우고 서로의 여행경로를 공유하는 웹 사이트로, 사용자들이 여행 일정을 작성하고 공유할 수 있습니다.
-  - 사이트는 REST API를 이용해 프론트엔드는 Vue.js, 백엔드는 Spring Boot 기반으로 개발되었습니다.
+  - 여행 계획을 세우고 서로의 여행경로를 공유할 수 있는 서비스이며 여행지를 쉽게 선택하지 못할 때, ai가 사용자를 대신해 여행지를 추천해줄 수 있습니다.
+  - Kakao 지도 api와 공공데이터포털의 한국관광공사_국문 관광정보 서비스_GW 데이터를 활용하였습니다. 
+  - REST API를 이용해 프론트엔드는 Vue.js, 백엔드는 Spring Boot로 개발하였습니다.
  
 ## 팀원
 
-- 최재용: (https://github.com/wodyddldl333)
-- 김하휼: (https://github.com/busangangster)
+- 최재용(BE): (https://github.com/wodyddldl333)
+- 김하휼(FE): (https://github.com/busangangster)
 
 
 ## 기술 스택 및 개발 환경
